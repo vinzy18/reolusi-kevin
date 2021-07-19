@@ -3,6 +3,8 @@ RENCANA PI
 - Web
   * Laravel
   * Code Ignitor
+   - HTML
+   - PHP
    -Bootstrap
 - Mobile Programming
   * Android Studio
@@ -12,3 +14,4 @@ RENCANA PI
 - Pyton
   *Google Colab
 - BigData
+
