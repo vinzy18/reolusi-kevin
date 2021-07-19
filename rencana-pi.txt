@@ -5,8 +5,13 @@ RENCANA PI
   * Code Ignitor
    - HTML
    - PHP
+   -Bootstrap
 - Mobile Programming
   * Android Studio
   * Switch
 - Deep Learning
   *CNN
+- Pyton
+  *Google Colab
+- BigData
+
