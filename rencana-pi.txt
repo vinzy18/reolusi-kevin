@@ -3,9 +3,11 @@ RENCANA PI
 - Web
   * Laravel
   * Code Ignitor
+   -Bootstrap
 - Mobile Programming
   * Android Studio
   * Switch
 - Deep Learning
   *CNN
+- Pyton
 - BigData
