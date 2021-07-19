@@ -10,4 +10,5 @@ RENCANA PI
 - Deep Learning
   *CNN
 - Pyton
+  *Google Colab
 - BigData
