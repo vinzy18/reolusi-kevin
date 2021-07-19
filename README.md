@@ -1,2 +1,2 @@
 # reolusi-kevin
-repo untuk erncana kedepan
+repo untuk rencana kedepan
