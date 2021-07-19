@@ -1,5 +1,10 @@
 RENCANA PI
 
 - Web
+  * Laravel
+  * Code Ignitor
 - Mobile Programming
+  * Android Studio
+  * Switch
 - Deep Learning
+  *CNN
